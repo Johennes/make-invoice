@@ -1,0 +1,34 @@
+{
+    "invoice": {
+        "number": 1234,
+        "date": "01.01.2019"
+    },
+    "seller": {
+        "name": "Sal E. S. Guru",
+        "street": "17 Guru Boulevard",
+        "zip": "66666",
+        "city": "Salesheaven"
+    },
+    "recipient": {
+        "name": "John Doe",
+        "street": "123 Fakestreet",
+        "zip": "12345",
+        "city": "Faketown"
+    },
+    "items": [
+        {
+            "title": "Hoverboard",
+            "amount": 1,
+            "price": "$199.99",
+            "total": "$199.99"
+        },
+        {
+            "title": "Jumbo battery pack",
+            "amount": 2,
+            "price": "$39.99",
+            "total": "$79.98"
+        }
+    ],
+    "shipping": "$10,00",
+    "total": "$289.97"
+  }
