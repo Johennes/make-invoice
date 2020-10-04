@@ -1,7 +1,5 @@
 # make-invoice
 
-*Mirrors: [GitHub] ~ [GitLab]*
-
 A headless PDF invoice generator
 
 ## Usage
@@ -19,6 +17,3 @@ node make-invoice.js --template template.html --context context.json --output in
 ```
 
 The invoice produced out of the example template and context mentioned above can be found under `test/invoice.pdf`.
-
-[GitHub]: https://github.com/Johennes/make-invoice
-[GitLab]: https://gitlab.com/cherrypicker/make-invoice
